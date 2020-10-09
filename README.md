@@ -13,15 +13,19 @@
 ## Installation
 
 ### Windows
-[Download MR 2.2.6 64Bit Windows](https://revskills.de/MR_64Bit_Windows.exe)
+
+[Download MR 2.2.7 64Bit Windows](https://revskills.de/MR_64Bit_Windows.exe)
 - Just install. Scripts will be added to "User Documents/MobileRevelator"
 
 ### Linux
-[Download MR 2.2.6 64Bit Linux](https://revskills.de/MR_x86_64_Linux.zip)
+
+[Download MR 2.2.7 64Bit Linux](https://github.com/bkerler/MR/releases/tag/2.2.7)
 - Templates and Plugins are in the "~/Documents/MobileRevelator" folder
-- "chmod +x MR_x86_64_Linux.appimage"
-- "MR_x86_64_Linux.appimage"
+- Use the chmod command to enable execution. 
+  - "chmod +x Mobile_Revelator-x86_64.AppImage"
+- Run the AppImage. "./Mobile_Revelator-x86_64.AppImage"
 - If the app crashes, "export QT_NO_FT_CACHE=1" first.
+
 
 ## Examples
 
